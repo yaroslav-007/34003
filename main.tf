@@ -1,4 +1,4 @@
-resource "null_resource" "cluster" {
+resource "null_resource" "cluster1" {
 
 
   provisioner "local-exec" {
