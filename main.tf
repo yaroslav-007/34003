@@ -5,3 +5,4 @@ resource "null_resource" "cluster" {
     command = "date"
   }
 }
+dsadsa
