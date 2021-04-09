@@ -5,3 +5,6 @@ resource "null_resource" "cluster1" {
     command = "date"
   }
 }
+
+
+#
